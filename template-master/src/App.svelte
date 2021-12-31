@@ -11,6 +11,7 @@
 		}else if(toDoOne !== "") {
 			toDoTwo = input.value;
 		}
+		input.value = ""
 	}
 
 	function checker() {
